@@ -1,3 +1,2 @@
-# duel
-
-A description of this project.
+# Duel
+This is a Libadwaita demo "Rock Paper Scissors" game.
