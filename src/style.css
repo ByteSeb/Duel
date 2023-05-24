@@ -1,0 +1,14 @@
+.rock_button {
+    color: white;
+    background-color: @blue_3;
+}
+
+.paper_button {
+    color: white;
+    background-color: @green_5;
+}
+
+.scissors_button {
+    color: white;
+    background-color: @red_2;
+}

@@ -1,0 +1,6 @@
+data/com.byteseb.Duel.desktop.in
+data/com.byteseb.Duel.appdata.xml.in
+data/com.byteseb.Duel.gschema.xml
+src/main.c
+src/duel-window.c
+src/duel-window.ui
